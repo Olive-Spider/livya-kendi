@@ -4,8 +4,8 @@ export const projects = [
     description: "Project Built Using ReactJS To Create A Modern UI/UX Restaurant Landing Page Website",
       image: '/images/1.png',
       tags: ['React', 'JavaScript'],
-    source: 'https://github.com/Olive-Spider/mock-restaurant',
-    visit: 'https://mock-restaurant-delta.vercel.app/',
+    visit: 'https://github.com/Olive-Spider/mock-restaurant',
+    source: 'https://mock-restaurant-delta.vercel.app/',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"Web Application Inspired By Stripe's Unique and Modern UI/UX Design.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://github.com/Olive-Spider/stripe-ish',
-    visit: 'https://stripe-ish.netlify.app/',
+    visit: 'https://github.com/Olive-Spider/stripe-ish',
+    source: 'https://stripe-ish.netlify.app/',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "A Fully Responsive Bank Website with Modern UI/UX using React JS and Tailwind CSS.",
       image: '/images/3.png',
       tags: ['ReactJS', 'TailwindCSS'],
-    source: 'https://github.com/Olive-Spider/mock-bank',
-    visit: 'https://mock-bank-alpha.vercel.app/',
+    visit: 'https://github.com/Olive-Spider/mock-bank',
+    source: 'https://mock-bank-alpha.vercel.app/',
     id: 2,
   },
   {
@@ -31,8 +31,8 @@ export const projects = [
     description: "A Twist On YouTube's UI/UX Using ReactJS and RapidAPI To Generate Real YouTube Videos",
     image: '/images/4.png',
     tags: ['ReactJS', 'Material UI', 'RapidAPI'],
-    source: 'https://github.com/Olive-Spider/youtube-clone',
-    visit: 'https://youtube-clone-sooty-five.vercel.app/',
+    visit: 'https://github.com/Olive-Spider/youtube-clone',
+    source: 'https://youtube-clone-sooty-five.vercel.app/',
     id: 3,
   },
 ];
