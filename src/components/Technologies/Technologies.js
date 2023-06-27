@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world.
-      From Back-end To FrontEnd. I currently consider myself FrontEnd Heavy.
+      From Back-end To FrontEnd. I can equally work in both FrontEnd and BackEnd.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
+            Experience with <br />
             JavaScript and React.js
           </ListParagraph>
         </ListContainer>

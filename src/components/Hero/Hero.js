@@ -17,7 +17,7 @@ const Hero = (props) => (
         <SectionText>
          Here I am going to showcase to you all my work as a fullstack developer.
         </SectionText>
-        <Button onClick={() => window.location = 'https://www.canva.com/design/DAFPegGq0Es/q-8NtPF_O5ZBT_bNkvC6Bg/view?utm_content=DAFPegGq0Es&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'}>My Resume</Button>
+        <Button onClick={() => window.location = 'https://www.canva.com/design/DAFnAOGiFWQ/q_fnt_pij7JgiZzGlal8iw/view?utm_content=DAFnAOGiFWQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'}>My Resume</Button>
       </LeftSection>
     </Section>
   </>
