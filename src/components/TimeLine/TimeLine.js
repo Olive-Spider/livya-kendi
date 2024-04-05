@@ -46,9 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a trained mining and mineral processing engineer who is now looking to work as a software 
-      developer. Due to the paucity of chances in the Kenyan mining business, I went to
-      technology to extend my horizons and ended up falling in love with this industry.
+      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

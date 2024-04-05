@@ -9,15 +9,13 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hi!<br />
-          My Name Is Livya...<br />
           Welcome To <br />
-          My Developer Portfolio
+          My Personal Portfolio
         </SectionTitle>
         <SectionText>
-         Here I am going to showcase to you all my work as a fullstack developer.
+        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
         </SectionText>
-        <Button onClick={() => window.location = 'https://resume.showwcase.com/olive-spider/3530.pdf'}>My Resume</Button>
+        <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
