@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            JavaScript and React.js
+            TailwindCSS, JavaScript, VueJS and React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Ruby and Ruby On Rails
+            PHP, Laravel, graphql, Ruby and Ruby On Rails
           </ListParagraph>
         </ListContainer>
       </ListItem>
